@@ -52,14 +52,14 @@ I'm a Software developer!
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-## 🔧 Tools & DevOps:
+## 🔧 Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
 ![Esbuild](https://img.shields.io/badge/-Esbuild-FFCF00?style=flat-square&logo=esbuild&logoColor=black)
 ![GitHub Copilot](https://img.shields.io/badge/-GitHubCopilot-000000?style=flat-square&logo=github&logoColor=white)
 
-## 🚀 Performance, Optimization & Security:
+## 🚀 Others:
 ![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=api&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-34A853?style=flat-square&logo=google&logoColor=white)
